@@ -1,0 +1,154 @@
+States,Leading Cancer Sites,Count,logCount,cluster
+Alabama,Breast,19101,4.281056104583504,1
+Alaska,Breast,2171,3.3366598234544202,0
+Arizona,Breast,24485,4.388900108354237,1
+Arkansas,Breast,11174,4.048208667024146,0
+California,Breast,136217,5.134231311288003,1
+Colorado,Breast,20077,4.3026988189917885,1
+Connecticut,Breast,16485,4.217088951479171,1
+Delaware,Breast,4229,3.6262376851469003,0
+District of Columbia,Breast,2502,3.398287305357401,0
+Florida,Breast,86368,4.936352862876423,1
+Georgia,Breast,38614,4.586744792246891,1
+Hawaii,Breast,6162,3.7897216939809217,0
+Idaho,Breast,6204,3.7926717891415676,0
+Illinois,Breast,52332,4.718767332721051,1
+Indiana,Breast,25287,4.402897308556409,1
+Iowa,Breast,12842,4.108632665580476,0
+Kansas,Breast,11249,4.051113916777601,0
+Kentucky,Breast,17807,4.250590758700192,1
+Louisiana,Breast,17938,4.25377401967888,1
+Maine,Breast,6068,3.783045572114693,0
+Maryland,Breast,24924,4.396617742582724,1
+Massachusetts,Breast,29864,4.475147976918248,1
+Michigan,Breast,39493,4.596520125227025,1
+Minnesota,Breast,22208,4.346509448774761,1
+Mississippi,Breast,11039,4.0429297333431595,0
+Missouri,Breast,25069,4.399137010338601,1
+Montana,Breast,4493,3.6525364185930256,0
+Nebraska,Breast,7258,3.8608169638645378,0
+Nevada,Breast,7786,3.8913143993821433,0
+New Hampshire,Breast,6428,3.808075868091307,0
+New Jersey,Breast,39146,4.592687391766162,1
+New Mexico,Breast,7265,3.86123561863404,0
+New York,Breast,83135,4.91978390112151,1
+North Carolina,Breast,43850,4.641969597702059,1
+North Dakota,Breast,2672,3.426836453803508,0
+Ohio,Breast,48844,4.688811222570019,1
+Oklahoma,Breast,14490,4.161068385471174,1
+Oregon,Breast,16707,4.222898472609422,1
+Pennsylvania,Breast,56571,4.7525938557890814,1
+Rhode Island,Breast,4805,3.681693392004564,0
+South Carolina,Breast,21014,4.322508727921508,1
+South Dakota,Breast,3168,3.500785172917456,0
+Tennessee,Breast,25954,4.414204300298342,1
+Texas,Breast,84733,4.9280525830194275,1
+Utah,Breast,7884,3.8967466156074058,0
+Vermont,Breast,2799,3.4470028984661623,0
+Virginia,Breast,32560,4.512684396217163,1
+Washington,Breast,29029,4.462832075378275,1
+West Virginia,Breast,7501,3.8751191654625683,0
+Wisconsin,Breast,24090,4.381836799998343,1
+Wyoming,Breast,1934,3.286456469746983,0
+Alabama,Lung and Bronchus,19832,4.297366513759765,0
+Alaska,Lung and Bronchus,1818,3.2595938788859486,1
+Arizona,Lung and Bronchus,19797,4.2965993830817855,0
+Arkansas,Lung and Bronchus,14522,4.162026432421177,0
+California,Lung and Bronchus,84970,4.929265618253066,0
+Colorado,Lung and Bronchus,11816,4.072470482303893,0
+Connecticut,Lung and Bronchus,13355,4.125643892357392,0
+Delaware,Lung and Bronchus,4111,3.61394747678035,1
+District of Columbia,Lung and Bronchus,1478,3.1696744340588068,1
+Florida,Lung and Bronchus,86664,4.9378387301384326,0
+Georgia,Lung and Bronchus,34029,4.53184918680186,0
+Hawaii,Lung and Bronchus,4081,3.610766594773271,1
+Idaho,Lung and Bronchus,4762,3.677789391068861,1
+Illinois,Lung and Bronchus,47670,4.678245151927042,0
+Indiana,Lung and Bronchus,27767,4.443528960275062,0
+Iowa,Lung and Bronchus,12463,4.095622595021622,0
+Kansas,Lung and Bronchus,9489,3.977220446635385,1
+Kentucky,Lung and Bronchus,24564,4.3902990887101305,0
+Louisiana,Lung and Bronchus,17644,4.24659704910637,0
+Maine,Lung and Bronchus,6969,3.843170464519898,1
+Maryland,Lung and Bronchus,19457,4.28907587889822,0
+Massachusetts,Lung and Bronchus,25789,4.4114345021650045,0
+Michigan,Lung and Bronchus,40347,4.605811248305117,0
+Minnesota,Lung and Bronchus,18268,4.261691002934963,0
+Mississippi,Lung and Bronchus,13265,4.122707254318348,0
+Missouri,Lung and Bronchus,27368,4.437243061177006,0
+Montana,Lung and Bronchus,3607,3.5571461423183632,1
+Nebraska,Lung and Bronchus,6235,3.7948364578145615,1
+Nevada,Lung and Bronchus,6867,3.8367670473942055,1
+New Hampshire,Lung and Bronchus,5628,3.750354088762708,1
+New Jersey,Lung and Bronchus,29879,4.475366058278924,0
+New Mexico,Lung and Bronchus,4821,3.683137131483007,1
+New York,Lung and Bronchus,70295,4.846924435266839,0
+North Carolina,Lung and Bronchus,41242,4.615339717908828,0
+North Dakota,Lung and Bronchus,2478,3.3941013020400446,1
+Ohio,Lung and Bronchus,50259,4.70121384321393,0
+Oklahoma,Lung and Bronchus,15510,4.190611797813605,0
+Oregon,Lung and Bronchus,13660,4.135450699345514,0
+Pennsylvania,Lung and Bronchus,54485,4.7362769552331105,0
+Rhode Island,Lung and Bronchus,4659,3.668292710448221,1
+South Carolina,Lung and Bronchus,20304,4.30758160475063,0
+South Dakota,Lung and Bronchus,3041,3.483016420144132,1
+Tennessee,Lung and Bronchus,30724,4.487477756438898,0
+Texas,Lung and Bronchus,67236,4.827601868515194,0
+Utah,Lung and Bronchus,3300,3.5185139398778875,1
+Vermont,Lung and Bronchus,2598,3.414639146737009,1
+Virginia,Lung and Bronchus,27097,4.432921211333212,0
+Washington,Lung and Bronchus,22206,4.346470335478755,0
+West Virginia,Lung and Bronchus,10337,4.014394516273535,0
+Wisconsin,Lung and Bronchus,21582,4.334091688202155,0
+Wyoming,Lung and Bronchus,1452,3.161966616364075,1
+Alabama,Melanoma of the Skin,6322,3.800854491503561,1
+Alaska,Melanoma of the Skin,328,2.515873843711679,0
+Arizona,Melanoma of the Skin,10955,4.039612381896724,1
+Arkansas,Melanoma of the Skin,3903,3.5913985512812485,1
+California,Melanoma of the Skin,48350,4.68439647841902,1
+Colorado,Melanoma of the Skin,6458,3.810098040681143,1
+Connecticut,Melanoma of the Skin,4401,3.643551368562945,1
+Delaware,Melanoma of the Skin,1677,3.2245330626060857,0
+District of Columbia,Melanoma of the Skin,126,2.100370545117563,0
+Florida,Melanoma of the Skin,35366,4.548585942592136,1
+Georgia,Melanoma of the Skin,14407,4.158573556172255,1
+Hawaii,Melanoma of the Skin,1982,3.2971036501492565,0
+Idaho,Melanoma of the Skin,2604,3.4156409798961542,0
+Illinois,Melanoma of the Skin,15233,4.1827854420846835,1
+Indiana,Melanoma of the Skin,8246,3.9162433304653397,1
+Iowa,Melanoma of the Skin,4975,3.6967930850817443,1
+Kansas,Melanoma of the Skin,4286,3.63205216670581,1
+Kentucky,Melanoma of the Skin,7059,3.8487431818956837,1
+Louisiana,Melanoma of the Skin,4579,3.660770643527697,1
+Maine,Melanoma of the Skin,2364,3.3736474722092176,0
+Maryland,Melanoma of the Skin,8181,3.912806392661292,1
+Massachusetts,Melanoma of the Skin,8718,3.9404168646816653,1
+Michigan,Melanoma of the Skin,11919,4.076239819775025,1
+Minnesota,Melanoma of the Skin,10285,4.012204296030743,1
+Mississippi,Melanoma of the Skin,2959,3.471144965160633,0
+Missouri,Melanoma of the Skin,6692,3.825555932290357,1
+Montana,Melanoma of the Skin,1753,3.243781916093795,0
+Nebraska,Melanoma of the Skin,2836,3.452706226511029,0
+Nevada,Melanoma of the Skin,2276,3.3571722577230334,0
+New Hampshire,Melanoma of the Skin,2670,3.4265112613645754,0
+New Jersey,Melanoma of the Skin,11593,4.064195835864643,1
+New Mexico,Melanoma of the Skin,1967,3.2938043599193367,0
+New York,Melanoma of the Skin,20707,4.316117183498905,1
+North Carolina,Melanoma of the Skin,15063,4.1779114760940095,1
+North Dakota,Melanoma of the Skin,871,2.9400181550076634,0
+Ohio,Melanoma of the Skin,16790,4.225050696138049,1
+Oklahoma,Melanoma of the Skin,4855,3.6861892342440234,1
+Oregon,Melanoma of the Skin,6387,3.805296916157985,1
+Pennsylvania,Melanoma of the Skin,18578,4.2689989585426735,1
+Rhode Island,Melanoma of the Skin,1457,3.16345955176999,0
+South Carolina,Melanoma of the Skin,6973,3.843419665204918,1
+South Dakota,Melanoma of the Skin,1236,3.092018470752797,0
+Tennessee,Melanoma of the Skin,7768,3.8903092168999485,1
+Texas,Melanoma of the Skin,18081,4.257222446187574,1
+Utah,Melanoma of the Skin,5358,3.7290027092721902,1
+Vermont,Melanoma of the Skin,1478,3.1696744340588068,0
+Virginia,Melanoma of the Skin,9528,3.979001748474721,1
+Washington,Melanoma of the Skin,10564,4.023828392534886,1
+West Virginia,Melanoma of the Skin,2521,3.401572845676446,0
+Wisconsin,Melanoma of the Skin,8210,3.9143431571194407,1
+Wyoming,Melanoma of the Skin,703,2.846955325019824,0
